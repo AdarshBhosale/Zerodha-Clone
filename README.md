@@ -6,6 +6,6 @@
 
 🕹️ Features: Explore the layout and design of a trading platform interface with this clone, showcasing essential elements like the dashboard, charts, and navigation.
 
-Live Demo: https://adarshbhosale.github.io/zerodha-clone/
+Live Demo: https://adarshbhosale.github.io/Zerodha-Clone/
 
 Show some ❤️ and ⭐ the repo if you like the design.
